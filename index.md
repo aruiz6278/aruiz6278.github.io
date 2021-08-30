@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 Adrian Ruiz 
 BDA 594
-Github Webproject #1
+Github Web exercise #1
 
 - Bulleted
 - List
