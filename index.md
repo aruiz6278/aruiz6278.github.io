@@ -15,9 +15,17 @@ Adrian Ruiz
 BDA 594
 Github Web exercise #1
 
-**Data set reference:** Enigma (_https://enigma.com_)
- - This data set includes billions of records from different institutions including government Organizaions or companies. 
- - The data sets from site allow for real-time insights on trends across different businesses and sectors. Potential application in Financial Services industry by allowing to track transactions and revenues across millions of customers to get real time insights on purchasing preferences.
+Data set selected: Enigma
+URL:https://enigma.com
+ Intro: This data set includes billions of records from different institutions including government Organizaions or companies. 
+ Applications: The data sets from site allow for real-time insights on trends across different businesses and sectors. Potential application in Financial Services industry by allowing to track transactions and revenues across millions of customers to get real time insights on purchasing preferences.
+
+Book selected: Forecasting: Principles and Practice
+URL:https://otexts.com/fpp2
+Author:Rob J Hyndman and George Athanasopoulos
+Institute:Monash University, Australia
+ Intro: This book forecasting methods and best practices for tenured professionals as well students looking to improve this skillset.
+ This book is interesting because it covers different techniques and methods, as well as leverage analytical tools in forecasting.
 
 
 **Bold** and _Italic_ and `Code` text
