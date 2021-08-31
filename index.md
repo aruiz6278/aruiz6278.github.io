@@ -15,11 +15,10 @@ Adrian Ruiz
 BDA 594
 Github Web exercise #1
 
-- Bulleted
-- List
+**Data set reference:** Enigma (_https://enigma.com_)
+ - This data set includes billions of records from different institutions including government Organizaions or companies. 
+ - The data sets from site allow for real-time insights on trends across different businesses and sectors. Potential application in Financial Services industry by allowing to track transactions and revenues across millions of customers to get real time insights on purchasing preferences.
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
